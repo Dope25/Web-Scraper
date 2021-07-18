@@ -3,12 +3,12 @@ files:
 - name: main.py
   visible: true
   text: |-
-    # the list "walks" is already defined
+    # the list "meals" is already defined
     # your code here
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/9009#comment
+feedback_link: https://hyperskill.org/learn/step/9010#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Sun, 18 Jul 2021 17:56:38 UTC
+  time: Sun, 18 Jul 2021 18:01:44 UTC
 record: -1
